@@ -1,0 +1,7 @@
+3
+Red Bull
+228.5
+Ferrari
+226.3
+Mercedes
+224.8
