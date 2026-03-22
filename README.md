@@ -160,4 +160,5 @@ Mercedes
 
 # 👨‍💻 Автор
 Григорий Корнеев ИУ5-24Б
-[Репозиторий курса](https://github.com/gregkorneev-BMSTU/ASOIU)
+
+[Репозиторий курса АСОИУ](https://github.com/gregkorneev-BMSTU/ASOIU)
